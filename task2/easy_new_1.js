@@ -28,7 +28,7 @@ if ((x == username) & (y == password)) {
 // 3- Write a program to declare a number. If the number is between 10 and 20 (inclusive), print "The number is between 10 and 20".
 // Otherwise, print "The number is not between 10 and 20".
 
-var a;
+var a=12;
 if ((a >= 10) & (a <= 20)) {
   console.log("The number is between 10 and 20");
 } else {
